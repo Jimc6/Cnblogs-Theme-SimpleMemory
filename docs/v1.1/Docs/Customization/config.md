@@ -233,7 +233,7 @@ window.cnblogsConfig = {
 ### fontIconExtend - 字体图标库扩展
 
 * 类型：```Url```
-* 相关文档：[字体图标库](https://bndong.github.io/Cnblogs-Theme-SimpleMemory/v1.1/#/Docs/Customization/fonticon)
+* 相关文档：[字体图标库](https://jimc6.github.io/Cnblogs-Theme-SimpleMemory/v1.1/#/Docs/Customization/fonticon)
 * 默认值：```""```
 
 字体图标库扩展Css的Url。
@@ -249,7 +249,7 @@ window.cnblogsConfig = {
 ### menuCustomList - 菜单数据
 
 * 类型：```Object```
-* 相关文档：[字体图标库](https://bndong.github.io/Cnblogs-Theme-SimpleMemory/v1.1/#/Docs/Customization/fonticon)
+* 相关文档：[字体图标库](https://jimc6.github.io/Cnblogs-Theme-SimpleMemory/v1.1/#/Docs/Customization/fonticon)
 * 默认值：```{}```
 
 自定义菜单数据，显示在默认数据下方。
@@ -259,21 +259,21 @@ window.cnblogsConfig = {
     menuCustomList: {
         "title1": { // 标题
             "data": [ // 列表数据 ['列表', '链接']
-                ['我的博客1', 'https://www.cnblogs.com/bndong/'],
-                ['我的博客2', 'https://www.cnblogs.com/bndong/'],
-                ['我的博客3', 'https://www.cnblogs.com/bndong/'],
-                ['我的博客4', 'https://www.cnblogs.com/bndong/'],
-                ['我的博客5', 'https://www.cnblogs.com/bndong/'],
+                ['我的博客1', 'https://www.cnblogs.com/jimc6/'],
+                ['我的博客2', 'https://www.cnblogs.com/jimc6/'],
+                ['我的博客3', 'https://www.cnblogs.com/jimc6/'],
+                ['我的博客4', 'https://www.cnblogs.com/jimc6/'],
+                ['我的博客5', 'https://www.cnblogs.com/jimc6/'],
             ],
             "icon": "icon-brush_fill" // 配置图标，参考文档：定制化/字体图标库
         },
         "title2": { // 标题
             "data": [ // 列表数据 ['列表', '链接']
-                ['我的博客6', 'https://www.cnblogs.com/bndong/'],
-                ['我的博客7', 'https://www.cnblogs.com/bndong/'],
-                ['我的博客8', 'https://www.cnblogs.com/bndong/'],
-                ['我的博客9', 'https://www.cnblogs.com/bndong/'],
-                ['我的博客10', 'https://www.cnblogs.com/bndong/'],
+                ['我的博客6', 'https://www.cnblogs.com/jimc6/'],
+                ['我的博客7', 'https://www.cnblogs.com/jimc6/'],
+                ['我的博客8', 'https://www.cnblogs.com/jimc6/'],
+                ['我的博客9', 'https://www.cnblogs.com/jimc6/'],
+                ['我的博客10', 'https://www.cnblogs.com/jimc6/'],
             ],
             "icon": "icon-brush_fill" // 配置图标，参考文档：定制化/字体图标库
         },
@@ -293,8 +293,8 @@ window.cnblogsConfig = {
 ```javascript
 window.cnblogsConfig = {
     menuNavList: [ // 列表数据 ['导航名称', '链接']
-        ['我的博客1', 'https://www.cnblogs.com/bndong/'],
-        ['我的博客2', 'https://www.cnblogs.com/bndong/'],
+        ['我的博客1', 'https://www.cnblogs.com/jimc6/'],
+        ['我的博客2', 'https://www.cnblogs.com/jimc6/'],
     ],
 }
 ```
@@ -345,7 +345,7 @@ window.cnblogsConfig = {
 ### loading
 
 * 类型：```Object```
-* 相关文档：[Loading](https://bndong.github.io/Cnblogs-Theme-SimpleMemory/v1.1/#/Docs/Customization/loading)
+* 相关文档：[Loading](https://jimc6.github.io/Cnblogs-Theme-SimpleMemory/v1.1/#/Docs/Customization/loading)
 * 默认值：
 
 ```json
@@ -733,7 +733,7 @@ window.cnblogsConfig = {
 
 ### 使用 highlightjs 渲染代码
 
-* 相关文档：[highlight](https://bndong.github.io/Cnblogs-Theme-SimpleMemory/v1.1/#/Docs/Guide/highlight)
+* 相关文档：[highlight](https://jimc6.github.io/Cnblogs-Theme-SimpleMemory/v1.1/#/Docs/Guide/highlight)
 
 #### essayCodeHighlightingType
 
@@ -896,7 +896,7 @@ window.cnblogsConfig = {
 ```javascript
 window.cnblogsConfig = {
     consoleList: [
-         ['jimc6 CNBlogs', 'https://www.cnblogs.com/bndong'],
+         ['jimc6 CNBlogs', 'https://www.cnblogs.com/jimc6'],
          ['jimc6 GitHub', 'https://github.com/jimc6'],
          ['jimc6 Email', 'dbuo@foxmail.com'],
     ],
@@ -927,7 +927,7 @@ window.cnblogsConfig = {
 ?> 版本 >= v1.2.6
 
 * 类型：```Boolean```
-* 相关文档：[版本映射](https://bndong.github.io/Cnblogs-Theme-SimpleMemory/v1.1/#/Docs/Guide/versionMapping)
+* 相关文档：[版本映射](https://jimc6.github.io/Cnblogs-Theme-SimpleMemory/v1.1/#/Docs/Guide/versionMapping)
 * 默认值：```false```
 
 是否开启版本映射，默认关闭。

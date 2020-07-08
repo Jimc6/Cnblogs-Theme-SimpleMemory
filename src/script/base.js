@@ -1,7 +1,7 @@
 /*!
  * DATE: 2018-03-13
  * UPDATES AND DOCS AT: https://github.com/jimc6
- * https://www.cnblogs.com/bndong/
+ * https://www.cnblogs.com/jimc6/
  * @author: jimc6, dbnuo@foxmail.com
  **/
 function Base() {

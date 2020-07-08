@@ -20,7 +20,7 @@
 
 📖 本主题以阅读为核心，美化博客园的显示效果，提高用户体验。
 
-🍰 基于博皮“SimpleMemory”进行的修改；[页面效果](https://www.cnblogs.com/bndong/)
+🍰 基于博皮“SimpleMemory”进行的修改；[页面效果](https://www.cnblogs.com/jimc/)
 
 🧀 支持响应，尺寸分别为：(1200px,∞px)，(960px,1200px]，(720px,960px]，(0px,720px]
 
@@ -55,4 +55,4 @@
 
 **Cnblogs-Theme-SimpleMemory** © [jimc6](https://github.com/jimc6), Released under the [MIT](./LICENSE) License.<br>
 
-> Blog [@Blog](https://www.cnblogs.com/bndong/) · GitHub [@GitHub](https://github.com/jimc6) · Email dbnuo@foxmail.com
+> Blog [@Blog](https://www.cnblogs.com/jimc6/) · GitHub [@GitHub](https://github.com/jimc6) · Email dbnuo@foxmail.com

@@ -2,7 +2,7 @@
 
 ?> 版本 >= v1.2.3
 
-该功能是在```v1.2.3```添加的，样式参考：[https://www.cnblogs.com/bndong/p/10300036.html](https://www.cnblogs.com/bndong/p/10300036.html)
+该功能是在```v1.2.3```添加的，样式参考：[https://www.cnblogs.com/jimc6/p/10300036.html](https://www.cnblogs.com/jimc6/p/10300036.html)
 
 ## 配置方式
 
@@ -26,7 +26,7 @@
 
 ### 配置书单数据
 
-书单的配置，可以参考其他[配置](https://bndong.github.io/Cnblogs-Theme-SimpleMemory/v1.1/#/Docs/Customization/config)的方式。例如：
+书单的配置，可以参考其他[配置](https://jimc6.github.io/Cnblogs-Theme-SimpleMemory/v1.1/#/Docs/Customization/config)的方式。例如：
 
 ```javascript
 window.cnblogsConfig = {
