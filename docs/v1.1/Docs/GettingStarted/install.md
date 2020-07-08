@@ -32,11 +32,11 @@
 
 本主题当前页面所涉及的配置有：
 
-- 控件显示设置/公告 [#86](https://github.com/BNDong/Cnblogs-Theme-SimpleMemory/issues/86)
+- 控件显示设置/公告 [#86](https://github.com/jimc6/Cnblogs-Theme-SimpleMemory/issues/86)
 
 ## 获取需要使用的版本
 
-进入主题仓库：[GitHub](https://github.com/BNDong/Cnblogs-Theme-SimpleMemory)
+进入主题仓库：[GitHub](https://github.com/jimc6/Cnblogs-Theme-SimpleMemory)
 
 切换版本：
 
@@ -64,7 +64,7 @@ CSS代码位置：```/src/style/base.min.css``` 拷贝此文件代码至页面�
 
 ### 设置博客侧边栏公告
 
-?> 推荐版本 >= v1.1.2，建议使用最新版本：[![GitHub release](https://img.shields.io/github/release/BNDong/Cnblogs-Theme-SimpleMemory.svg)](https://github.com/BNDong/Cnblogs-Theme-SimpleMemory/releases)
+?> 推荐版本 >= v1.1.2，建议使用最新版本：[![GitHub release](https://img.shields.io/github/release/jimc6/Cnblogs-Theme-SimpleMemory.svg)](https://github.com/jimc6/Cnblogs-Theme-SimpleMemory/releases)
 
 在侧边栏HTML代码中设置以下代码：
 
@@ -77,7 +77,7 @@ CSS代码位置：```/src/style/base.min.css``` 拷贝此文件代码至页面�
         blogStartDate : "2016-11-17", // 入园时间，年-月-日。入园时间查看方法：鼠标停留园龄时间上，会显示入园时间
     }
 </script>
-<script src="https://cdn.jsdelivr.net/gh/BNDong/Cnblogs-Theme-SimpleMemory@v1.3.1/src/script/simpleMemory.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/jimc6/Cnblogs-Theme-SimpleMemory@v1.3.1/src/script/simpleMemory.min.js"></script>
 ```
 
 !> 注意：引入的文件 simpleMemory.min.js 版本需要与配置 window.cnblogsConfig.GhVersions 一致！

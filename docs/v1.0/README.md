@@ -1,10 +1,10 @@
 # Cnblogs-Theme-SimpleMemory
 
-?> 该版本最后提交更新版本：[d2c2e52cfefe2c274bed21735e38827638998f0e](https://github.com/BNDong/Cnblogs-Theme-SimpleMemory/tree/d2c2e52cfefe2c274bed21735e38827638998f0e)
+?> 该版本最后提交更新版本：[d2c2e52cfefe2c274bed21735e38827638998f0e](https://github.com/jimc6/Cnblogs-Theme-SimpleMemory/tree/d2c2e52cfefe2c274bed21735e38827638998f0e)
 
 ?> 由于该版本配置麻烦而复杂，已不推荐使用该版本，推荐版本：>= v1.1.2
 
-?> 希望大家尽量使用最新的版本：[![GitHub release](https://img.shields.io/github/release/BNDong/Cnblogs-Theme-SimpleMemory.svg)](https://github.com/BNDong/Cnblogs-Theme-SimpleMemory/releases)
+?> 希望大家尽量使用最新的版本：[![GitHub release](https://img.shields.io/github/release/jimc6/Cnblogs-Theme-SimpleMemory.svg)](https://github.com/jimc6/Cnblogs-Theme-SimpleMemory/releases)
 
 # 目录结构
 
@@ -36,10 +36,10 @@
 进入管理后台设置界面依次设置
 
 1. 博客皮肤 ---> SimpleMemory
-2. 页面定制CSS代码 ---> [/css/base.min.css](https://github.com/BNDong/Cnblogs-Theme-SimpleMemory/blob/v1.0.0/css/base.min.css)(禁用模板默认CSS)
-3. 博客侧边栏公告 ---> [/html/sidebar.html](https://github.com/BNDong/Cnblogs-Theme-SimpleMemory/blob/v1.0.0/html/sidebar.html)(需要开启JS权限)
-4. 页首Html代码 ---> [/html/pageHeading.html](https://github.com/BNDong/Cnblogs-Theme-SimpleMemory/blob/v1.0.0/html/pageHeading.html)
-5. 页脚Html代码 ---> [/html/pageFooter.html](https://github.com/BNDong/Cnblogs-Theme-SimpleMemory/blob/v1.0.0/html/pageFooter.html)
+2. 页面定制CSS代码 ---> [/css/base.min.css](https://github.com/jimc6/Cnblogs-Theme-SimpleMemory/blob/v1.0.0/css/base.min.css)(禁用模板默认CSS)
+3. 博客侧边栏公告 ---> [/html/sidebar.html](https://github.com/jimc6/Cnblogs-Theme-SimpleMemory/blob/v1.0.0/html/sidebar.html)(需要开启JS权限)
+4. 页首Html代码 ---> [/html/pageHeading.html](https://github.com/jimc6/Cnblogs-Theme-SimpleMemory/blob/v1.0.0/html/pageHeading.html)
+5. 页脚Html代码 ---> [/html/pageFooter.html](https://github.com/jimc6/Cnblogs-Theme-SimpleMemory/blob/v1.0.0/html/pageFooter.html)
 
 >本主题需要JS权限，没有的请先申请权限，然后再进行设置。初始配置在侧边栏Html代码中，请仔细配置，不理解的不要乱修改，直接默认就行。
 >/css/base.min.css 的修改参考 /css/base.css，请使用压缩版本，直接使用 /css/base.css 会字符超限！

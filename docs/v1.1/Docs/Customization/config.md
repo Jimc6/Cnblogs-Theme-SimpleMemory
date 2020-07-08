@@ -49,13 +49,13 @@
 ### GhUserName - GitHub用户
 
 * 类型：```String```
-* 默认值：```BNDong```
+* 默认值：```jimc6```
 
 GitHub用户名(不是昵称)，注意大小写。
 
 ```javascript
 window.cnblogsConfig = {
-    GhUserName: 'BNDong',
+    GhUserName: 'jimc6',
 }
 ```
 
@@ -100,7 +100,7 @@ window.cnblogsConfig = {
 
 ```javascript
 window.cnblogsConfig = {
-    blogUser: 'BNDong',
+    blogUser: 'jimc6',
 }
 ```
 
@@ -193,7 +193,7 @@ window.cnblogsConfig = {
 
 ```javascript
 window.cnblogsConfig = {
-    webpageIcon: "https://cdn.jsdelivr.net/gh/BNDong/Cnblogs-Theme-SimpleMemory@master/img/webp/blog_logo.webp",
+    webpageIcon: "https://cdn.jsdelivr.net/gh/jimc6/Cnblogs-Theme-SimpleMemory@master/img/webp/blog_logo.webp",
 }
 ```
 
@@ -530,7 +530,7 @@ window.cnblogsConfig = {
 
 ```json
 [
-    "https://cdn.jsdelivr.net/gh/BNDong/Cnblogs-Theme-SimpleMemory@master/img/webp/home_top_bg.webp"
+    "https://cdn.jsdelivr.net/gh/jimc6/Cnblogs-Theme-SimpleMemory@master/img/webp/home_top_bg.webp"
 ]
 ```
 
@@ -539,8 +539,8 @@ window.cnblogsConfig = {
 ```javascript
 window.cnblogsConfig = {
     homeTopImg: [
-        "https://cdn.jsdelivr.net/gh/BNDong/Cnblogs-Theme-SimpleMemory@master/img/webp/home_top_bg.webp",
-        "https://cdn.jsdelivr.net/gh/BNDong/Cnblogs-Theme-SimpleMemory@master/img/webp/home_top_bg.webp"
+        "https://cdn.jsdelivr.net/gh/jimc6/Cnblogs-Theme-SimpleMemory@master/img/webp/home_top_bg.webp",
+        "https://cdn.jsdelivr.net/gh/jimc6/Cnblogs-Theme-SimpleMemory@master/img/webp/home_top_bg.webp"
     ],
 }
 ```
@@ -587,7 +587,7 @@ one：每日获取一句话
 
 ```json
 [
-    "https://cdn.jsdelivr.net/gh/BNDong/Cnblogs-Theme-SimpleMemory@master/img/webp/nothome_top_bg.webp"
+    "https://cdn.jsdelivr.net/gh/jimc6/Cnblogs-Theme-SimpleMemory@master/img/webp/nothome_top_bg.webp"
 ]
 ```
 
@@ -596,8 +596,8 @@ one：每日获取一句话
 ```javascript
 window.cnblogsConfig = {
     essayTopImg: [
-        "https://cdn.jsdelivr.net/gh/BNDong/Cnblogs-Theme-SimpleMemory@master/img/webp/nothome_top_bg.webp",
-        "https://cdn.jsdelivr.net/gh/BNDong/Cnblogs-Theme-SimpleMemory@master/img/webp/nothome_top_bg.webp"
+        "https://cdn.jsdelivr.net/gh/jimc6/Cnblogs-Theme-SimpleMemory@master/img/webp/nothome_top_bg.webp",
+        "https://cdn.jsdelivr.net/gh/jimc6/Cnblogs-Theme-SimpleMemory@master/img/webp/nothome_top_bg.webp"
     ],
 }
 ```
@@ -844,11 +844,11 @@ window.cnblogsConfig = {
 ```javascript
 window.cnblogsConfig = {
     bottomBlogroll: [ // 友情链接，[[链接名,链接]....]
-        ["申请坑位", 'https://msg.cnblogs.com/send/BNDong'],
-        ["申请坑位", 'https://msg.cnblogs.com/send/BNDong'],
-        ["申请坑位", 'https://msg.cnblogs.com/send/BNDong'],
-        ["申请坑位", 'https://msg.cnblogs.com/send/BNDong'],
-        ["申请坑位", 'https://msg.cnblogs.com/send/BNDong'],
+        ["申请坑位", 'https://msg.cnblogs.com/send/jimc6'],
+        ["申请坑位", 'https://msg.cnblogs.com/send/jimc6'],
+        ["申请坑位", 'https://msg.cnblogs.com/send/jimc6'],
+        ["申请坑位", 'https://msg.cnblogs.com/send/jimc6'],
+        ["申请坑位", 'https://msg.cnblogs.com/send/jimc6'],
     ],
 }
 ```
@@ -896,9 +896,9 @@ window.cnblogsConfig = {
 ```javascript
 window.cnblogsConfig = {
     consoleList: [
-         ['BNDong CNBlogs', 'https://www.cnblogs.com/bndong'],
-         ['BNDong GitHub', 'https://github.com/BNDong'],
-         ['BNDong Email', 'dbuo@foxmail.com'],
+         ['jimc6 CNBlogs', 'https://www.cnblogs.com/bndong'],
+         ['jimc6 GitHub', 'https://github.com/jimc6'],
+         ['jimc6 Email', 'dbuo@foxmail.com'],
     ],
 }
 ```

@@ -22,7 +22,7 @@
         blogStartDate : "2016-11-17", // 入园时间，年-月-日。入园时间查看方法：鼠标停留园龄时间上，会显示入园时间
     }
 </script>
-<script src="https://cdn.jsdelivr.net/gh/BNDong/Cnblogs-Theme-SimpleMemory@v1.1.6/src/script/simpleMemory.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/jimc6/Cnblogs-Theme-SimpleMemory@v1.1.6/src/script/simpleMemory.min.js"></script>
 ```
 
 ### 示例映射配置

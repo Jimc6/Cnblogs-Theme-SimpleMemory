@@ -1,8 +1,8 @@
 /*!
  * DATE: 2018-03-13
- * UPDATES AND DOCS AT: https://github.com/BNDong
+ * UPDATES AND DOCS AT: https://github.com/jimc6
  * https://www.cnblogs.com/bndong/
- * @author: BNDong, dbnuo@foxmail.com
+ * @author: jimc6, dbnuo@foxmail.com
  **/
 function Base() {
 
@@ -105,7 +105,7 @@ function Base() {
         $('#menuWrap').optiscroll({ forceScrollbars: true, maxTrackSize: 20, preventParentScroll: true });
 
         // 设置菜单个人简介头像
-        let blogAvatar = window.cnblogsConfig.blogAvatar ? window.cnblogsConfig.blogAvatar : 'https://cdn.jsdelivr.net/gh/BNDong/Cnblogs-Theme-SimpleMemory@master/img/webp/default_avatar.webp';
+        let blogAvatar = window.cnblogsConfig.blogAvatar ? window.cnblogsConfig.blogAvatar : 'https://cdn.jsdelivr.net/gh/jimc6/Cnblogs-Theme-SimpleMemory@master/img/webp/default_avatar.webp';
         $('#menuBlogAvatar').append("<img src='"+blogAvatar+"'>");
 
         // html5-title
@@ -587,7 +587,7 @@ function Base() {
                 bndongJs.clearIntervalTimeId(timeIds.setMenuRecordTId);
             }
         }
-        
+
         // 添加文章档案
         function setArticle() {
             let sbArticle   = $('#sidebar_articlearchive ul li'),
@@ -1373,7 +1373,7 @@ function Base() {
 
         // 使用 highlightjs 代码样式
         function highlightjsCode() {
-            tools.dynamicLoadingCss('https://cdn.jsdelivr.net/gh/BNDong/'+(window.cnblogsConfig.GhRepositories)+'@'+(window.cnblogsConfig.GhVersions)+'/src/style/highlightjs/'+hltheme+'.min.css');
+            tools.dynamicLoadingCss('https://cdn.jsdelivr.net/gh/jimc6/'+(window.cnblogsConfig.GhRepositories)+'@'+(window.cnblogsConfig.GhVersions)+'/src/style/highlightjs/'+hltheme+'.min.css');
             require(['highlightjs'], function() {
                 $('.post pre').each(function(i, block) {
                     if ($.inArray(hltheme, [
@@ -1488,7 +1488,7 @@ function Base() {
                 bndongJs.clearIntervalTimeId(timeIds.commentTId);
             }
         },1000);
-        
+
         function setComment() {
             let feedbackItem = $('.feedbackItem');
             if (feedbackItem.length > 0) {
@@ -1500,7 +1500,7 @@ function Base() {
                         let id = idInfo[idInfo.length - 1], idTmp = id.toString().match(/[0-9]/g);
                         if ($.isArray(idTmp)) id = idTmp.join('');
                         let op = $('#comment_' + id + '_avatar'), patch  = op.length > 0 ? $.trim(op.text())
-                            : 'https://cdn.jsdelivr.net/gh/BNDong/Cnblogs-Theme-SimpleMemory@master/img/webp/default_avatar.webp';
+                            : 'https://cdn.jsdelivr.net/gh/jimc6/Cnblogs-Theme-SimpleMemory@master/img/webp/default_avatar.webp';
                         let ac = $('#a_comment_author_' + id), ah = ac.length ? ac.attr('href') : 'javascropt:void(0);';
                         avatarHtml = '<div class="feedbackAvatar"><a href="' + ah + '" target="_blank"><img src="'+patch+'"/></a></div>';
                         obj.prepend(avatarHtml);
