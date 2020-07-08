@@ -101,7 +101,7 @@ if (initCheck()) {
         menuCustomList: {},
         menuNavList: [],
         menuUserInfoBgImg: '',
-        webpageTitleOnblur: "博客",
+        webpageTitleOnblur: "Hi",
         webpageTitleOnblurTimeOut: 500,
         webpageTitleFocus: "欢迎回来！",
         webpageTitleFocusTimeOut: 1000,
