@@ -60,7 +60,7 @@ require.config({
     },
     shim:{
         optiscroll: {
-            deps: ['css!'+getJsDelivrUrl('optiscroll.css')]
+            deps: ['css!'+getJsDelivrUrl('optiscroll.min.css')]
         },
         classie: {
             deps: ['snapSvg'],
@@ -69,28 +69,28 @@ require.config({
             deps: ['tools'],
         },
         main4: {
-            deps: ['snapSvg','classie', 'css!'+getJsDelivrUrl('menu_bubble.css')]
+            deps: ['snapSvg','classie', 'css!'+getJsDelivrUrl('menu_bubble.min.css')]
         },
         codePrettify: {
-            deps: ['css!'+getJsDelivrUrl('codePrettify.css')]
+            deps: ['css!'+getJsDelivrUrl('codePrettify.min.css')]
         },
         fancybox: {
             deps: ['css!'+getJsDelivrUrl('jquery.fancybox.min.css')]
         },
         codeDesert: {
-            deps: ['css!'+getJsDelivrUrl('codeDesert.css')]
+            deps: ['css!'+getJsDelivrUrl('codeDesert.min.css')]
         },
         codeSunburst: {
-            deps: ['css!'+getJsDelivrUrl('codeSunburst.css')]
+            deps: ['css!'+getJsDelivrUrl('codeSunburst.min.css')]
         },
         codeObsidian: {
-            deps: ['css!'+getJsDelivrUrl('codeObsidian.css')]
+            deps: ['css!'+getJsDelivrUrl('codeObsidian.min.css')]
         },
         codeDoxy: {
-            deps: ['css!'+getJsDelivrUrl('codeDoxy.css')]
+            deps: ['css!'+getJsDelivrUrl('codeDoxy.min.css')]
         },
         marvin: {
-            deps: ['title', 'bootstrap', 'css!'+getJsDelivrUrl('marvin.nav2.css')]
+            deps: ['title', 'bootstrap', 'css!'+getJsDelivrUrl('marvin.nav2.min.css')]
         },
         MyTween: {
             deps: ['TweenMax']
@@ -99,13 +99,13 @@ require.config({
             deps: [
                 'tools',
                 'css!//at.alicdn.com/t/font_543384_msjvd6htfjp.css', // 阿里云字体图标
-                'css!'+getJsDelivrUrl('google-fonts.css'), // 谷歌字体
+                'css!'+getJsDelivrUrl('google-fonts.min.css'), // 谷歌字体
             ]
         },
 
         // == 合并压缩文件 == //
         optiscroll_ToProgress_rotate: {
-            deps: ['css!'+getJsDelivrUrl('optiscroll.css')]
+            deps: ['css!'+getJsDelivrUrl('optiscroll.min.css')]
         },
     }
 });

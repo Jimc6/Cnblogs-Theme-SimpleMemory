@@ -385,7 +385,7 @@
                 }
             }
 
-            // draw new ribbons 
+            // draw new ribbons
             this._context.clearRect(0, 0, this._width, this._height);
 
             for (var a = 0; a < this._ribbons.length; ++a) // single ribbon
