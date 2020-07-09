@@ -1,7 +1,7 @@
 /*!
  * UPDATES AND DOCS AT: https://github.com/jimc6
- * https://www.cnblogs.com/jimc6/
- * @author: jimc6, dbnuo@foxmail.com
+ * https://www.cnblogs.com/jimc/
+ * @author: jimc6
  **/
 if (initCheck()) {
 

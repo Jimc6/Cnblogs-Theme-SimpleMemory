@@ -132,11 +132,11 @@ body{
 .menu-wrap {
     position: fixed;
     z-index: 1001;
-    width: 280px;
+    width: 380px;
     height: 100%;
     font-size: 1.15em;
-    -webkit-transform: translate3d(-280px,0,0);
-    transform: translate3d(-280px,0,0);
+    -webkit-transform: translate3d(-380px,0,0);
+    transform: translate3d(-380px,0,0);
     -webkit-transition: -webkit-transform 0.4s;
     transition: transform 0.4s;
     top: 0;
